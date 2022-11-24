@@ -1,5 +1,1 @@
-flour
-egg
-vanila
-sugar
-^c
+milk
